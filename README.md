@@ -40,9 +40,6 @@ Follow the on-screen instructions to start the typing test.
 - `text.txt` — Source of typing text (one line per test)
 - `README.md` — Project documentation
 
-## License
-
-MIT License
 
 ---
 
